@@ -11,4 +11,4 @@ class Task(TaskBase):
     id: int
 
     class Config:
-        orm_mode = True # Permite mapear con modelos de base de datos
+        from_attributes = True  # Actualizado para Pydantic v2
