@@ -199,13 +199,13 @@ Integración de SQLite como componente COTS para persistencia de datos, demostra
 ### 4.1 Matriz de Comparación
 
 | Aspecto | Framework (FastAPI) | COTS (SQLite) |
-|---------|--------------------|--------------| ----------------|
-| **Tiempo de Implementación** | Medio (2-4h) | Bajo (<1h) | Alto (semanas) |
+|---------|--------------------|--------------|
+| **Tiempo de Implementación** | Medio (2-4h) | Bajo (<1h) |
 | **Curva de Aprendizaje** | Media | Baja |
 | **Flexibilidad** | Alta | Media |
 | **Mantenimiento** | Medio | Bajo |
 | **Costo Inicial** | Gratis | Gratis |
-| **Escalabilidad** | Alta | Media | Muy Alta |
+| **Escalabilidad** | Alta | Media |
 | **Riesgo de Dependencia** | Medio | Bajo |
 
 ### 4.2 Métricas de Productividad
